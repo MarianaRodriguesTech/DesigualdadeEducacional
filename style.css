@@ -40,7 +40,8 @@ h2{
     margin-bottom: 3%;
 }
 .img1{
-
+    position: absolute;
+    left: 53%;
     border: 5px solid #2f0c0c;
 }
 
